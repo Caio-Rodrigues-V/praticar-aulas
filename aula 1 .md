@@ -4,7 +4,7 @@
 **Aula 1: O que é um Computador? (Hardware e Software)**
 
 - Informática para o 6º, 7º e 8º ano  
-- Professor: [Seu Nome]
+- Professor: [Caio Rodrigues]
 
 ---
 
